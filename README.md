@@ -37,16 +37,16 @@ Run with GTP protocol
 >
 > Set the path as shown in the following figure:
 >
-> ![image]([C:\Users\ZYH\Desktop\study\2024_Project\Yuhan_residual\image\屏幕截图 2024-08-05 082940.png](https://github.com/count001/MyProject/blob/master/image/2024-08-05%20082940.png))
+> ![image](https://github.com/count001/MyProject/blob/master/image/2024-08-05%20082940.png)
 >
 > Click on the menu in the bottom right corner and select 'info'.
 > After that, select the opponent engine on the page that appears, and you can start the battle. As shown in figure:
 >
-> ![image]([C:\Users\ZYH\Pictures\Screenshots\屏幕截图 2024-08-05 083904.png](https://github.com/count001/MyProject/blob/master/image/2024-08-05%20083907.png))
+> ![image](https://github.com/count001/MyProject/blob/master/image/2024-08-05%20083907.png)
 >
 > After that you can enjoy the game:
 >
-> ![image]([C:\Users\ZYH\Pictures\Screenshots\屏幕截图 2024-08-05 084004.png](https://github.com/count001/MyProject/blob/master/image/2024-08-05%20084007.png))
+> ![image](https://github.com/count001/MyProject/blob/master/image/2024-08-05%20084007.png)
 
 ```bash
 You can also run it directly from the command line (without interface):
