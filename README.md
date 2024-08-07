@@ -16,18 +16,9 @@ unzip the file.
 
 Then run the following code:
 
-```bash
-python filter.py
-python prepareData.py
-```
 
 Training Network, or you can directly use the provided model weights: policyNet.pt, playoutNet.pt,valueNet.pt.
 
-```bash
-python train.py policyNet
-python train.py playoutNet
-python train.py valueNet
-```
 
 Run with GTP protocol
 
