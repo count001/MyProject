@@ -14,11 +14,7 @@ Obtain and process data: https://homepages.cwi.nl/~aeb/go/games/games.7z.
 
 unzip the file. 
 
-Then run the following code:
-
-
-Training Network, or you can directly use the provided model weights: policyNet.pt, playoutNet.pt,valueNet.pt.
-
+You can directly use the provided model weights: policyNet.pt, playoutNet.pt,valueNet.pt.
 
 Run with GTP protocol
 
