@@ -2,6 +2,8 @@
 
 A Go AI mainly implements simple neural network and Monte Carlo tree search algorithms.
 
+In addition, the file also includes tables and images for the evaluation chapter.
+
 ### How to use
 
 Install Python related packages
