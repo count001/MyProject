@@ -61,6 +61,8 @@ python gtp.py
 
 + [Sabaki](https://github.com/SabakiHQ/Sabaki)
 
++ [Irene](https://github.com/GWDx/Irene)
+
 + [sgfmill](https://github.com/mattheww/sgfmill)
 
   
